@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\lvl1_obj.cs">
+    <Files>
+      <File FileName="Assets\scripts\lvl1_obj.cs" Line="10" Column="3" />
+      <File FileName="Assets\scripts\brick_script.cs" Line="22" Column="2" />
+      <File FileName="Assets\scripts\SceneManager.cs" Line="11" Column="21" />
+      <File FileName="Assets\scripts\gui_script.cs" Line="22" Column="3" />
+      <File FileName="Assets\scripts\doABarrelRoll.cs" Line="13" Column="27" />
+      <File FileName="Assets\scripts\lvl2_obj.cs" Line="8" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

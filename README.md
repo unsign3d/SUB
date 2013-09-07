@@ -31,5 +31,9 @@ Feel free to open issues
 Special thanks
 ---------------
 
-www.nerdz.eu 's users to be there
-http://www.youtube.com/channel/UCPXOQq7PWh5OdCwEO60Y8jQ for the awesoms tutorials
+- www.nerdz.eu 's users to be there
+- http://www.youtube.com/channel/UCPXOQq7PWh5OdCwEO60Y8jQ for the awesoms tutorials
+
+Licence
+--------
+http://creativecommons.org/licenses/by-nc-nd/2.5/it/

@@ -1,3 +1,5 @@
+# This project is unmaintained, use at your own risk
+
 SUB (0.0.3a)
 ===
 
@@ -23,7 +25,6 @@ Features
 - 2 playable level
 - full mouse control
 - Opensource
-- Is my fuc**ng first PC game
 
 Feel free to open issues
 --------------------------
